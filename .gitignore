@@ -1,0 +1,6 @@
+# Specific folders
+/Secrets/
+
+# Virtual environments
+.venv
+.vscode
